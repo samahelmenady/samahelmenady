@@ -25,23 +25,20 @@ I'm a passionate **AI & Data Science Engineer** from Egypt 🇪🇬
 
 <br />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samah's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=samahelmenady&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samah's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samahelmenady&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Featured Projects
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=buefy" />
+<a href="https://github.com/samahelmenady/PROJECT_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samahelmenady&repo=PROJECT_1&theme=buefy" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=buefy" />
+<a href="https://github.com/samahelmenady/PROJECT_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samahelmenady&repo=PROJECT_2&theme=buefy" />
 </a>
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:samahelmenady@gmail.com">
   <img align="right" alt="Email" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
