@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Samah Elmenady</h1>
 <h3 align="center">AI & Robotics Enthusiast with a passion for machine learning, Data Scientist, and smart systems. I enjoy working with real-world datasets, building intelligent solutions, and developing robotics projects using AI and embedded systems.</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/60/5b/e4/605be479dfcb6ee0977c3b0dce2e5963.jpg" alt="profile banner" width="400"/>
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=samah-elmenady&label=Profile%20views&color=0e75b6&style=flat" alt="samah-elmenady" /> 
 </p>
