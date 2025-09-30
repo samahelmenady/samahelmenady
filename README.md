@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img width="80%" alt="Hello, I'm Samah" src="./assets/gh-readme-header.png" />
+</p>
 
-<!--
-**samahelmenady/samahelmenady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+I'm a passionate **AI & Data Science Engineer** from Egypt 🇪🇬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me**
+
+- 🎓 AI & Data Science Engineer  
+- 🤖 Worked on projects in Machine Learning, Deep Learning, Computer Vision, NLP, and Smart Systems  
+- 🧠 Interested in building intelligent solutions and data-driven applications  
+- 💬 Ask me about AI, ML, DL, Data Analysis, and Python
+
+**Tech Stack**
+
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" alt="machine-learning" src="https://raw.githubusercontent.com/github/explore/master/topics/machine-learning/machine-learning.png"></code>
+<code><img height="20" alt="deep-learning" src="https://raw.githubusercontent.com/github/explore/master/topics/deep-learning/deep-learning.png"></code>
+<code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" alt="pytorch" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
+<code><img height="20" alt="data-visualization" src="https://raw.githubusercontent.com/github/explore/master/topics/data-visualization/data-visualization.png"></code>
+
+<br />
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Samah's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+#### Featured Projects
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=buefy" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=buefy" />
+</a>
+
+<br /><br />
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img align="right" alt="LinkedIn" width="21px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img align="right" alt="Email" width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
