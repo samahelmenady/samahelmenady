@@ -33,14 +33,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samah-elmenady&show_icons=true&locale=en&layout=compact" alt="samah-elmenady" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samah-elmenady&show_icons=true&locale=en" alt="samah-elmenady" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samah-elmenady&" alt="samah-elmenady" />
-</p>
