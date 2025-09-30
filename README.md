@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Samah" src="https://i.pinimg.com/1200x/44/63/61/446361d44f68d767d18de51eabb85cd2.jpg" />
+  <img width="80%" alt="Hello, I'm Samah" />
 </p>
 
 <br />
