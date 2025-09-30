@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Samah" />
+ alt="Hello, I'm Samah" />
 </p>
 
 <br />
