@@ -93,16 +93,6 @@ I enjoy designing, developing, and deploying intelligent AI applications using *
 * 🎨 Streamlit
 * 🌐 Flask
 
----
-
-# 🌱 Currently Learning
-
-* Multi-Agent Systems
-* Agentic AI Workflows
-* Enterprise AI Architecture
-* Advanced Prompt Engineering
-* Google Vertex AI Agent Engine
-* AI Infrastructure on Google Cloud
 
 ---
 
