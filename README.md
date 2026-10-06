@@ -90,6 +90,9 @@ I design, build, and deploy AI applications using **Python, LangChain, Google Cl
 - [Machine Learning Operations (MLOps) on Google Cloud](https://www.coursera.org/account/accomplishments/specialization/SUFMBRHT2SSY) (Google Cloud)
 - [Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/INRQA7CN4843) (DeepLearning.AI)
 - [LLM Engineering with RAG: Optimizing AI Solutions](https://www.coursera.org/account/accomplishments/verify/VUK2FFWNGQY4) (Coursera)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/KON6TBIDMDTW) (Stanford and DeepLearning.AI)
+- [Complete Generative AI Course with LangChain and Hugging Face](https://www.udemy.com/certificate/UC-bdf5cd5b-b197-4cfe-bd48-4d2f784e18a5/) (Udemy)
+- [FastAPI: The Complete Course 2026](https://www.udemy.com/certificate/UC-cd4a90ea-be9d-4a7b-ae38-70501848c68b/) (Udemy)
 
 ---
 
